@@ -1,2 +1,2 @@
 # letmeask
-App criado no NWL6
+App criado na NWL6
